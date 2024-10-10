@@ -1,0 +1,7 @@
+2024-10-01 - {'entrada_dinheiro': 434.0, 'entrada_cartao': 75.0, 'sangria': 0, 'caixa restante': 639.5}
+2024-10-01 - {'entrada_dinheiro': 434.0, 'entrada_cartao': 75.0, 'sangria': 0, 'caixa restante': '12'}
+2024-10-01 - {'entrada_dinheiro': 434.0, 'entrada_cartao': 75.0, 'sangria': 0, 'caixa restante': '78'}
+2024-10-01 - {'entrada_dinheiro': 434.0, 'entrada_cartao': 75.0, 'sangria': 0, 'caixa restante': '78'}
+2024-10-01 - {'entrada_dinheiro': 434.0, 'entrada_cartao': 75.0, 'sangria': 0, 'caixa restante': '89'}
+2024-10-01 - {'entrada_dinheiro': 434.0, 'entrada_cartao': 75.0, 'sangria': 0, 'caixa restante': '23'}
+2024-10-01 - {'entrada_dinheiro': 434.0, 'entrada_cartao': 75.0, 'sangria': 0, 'caixa restante': '10'}

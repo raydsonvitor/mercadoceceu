@@ -1,0 +1,4 @@
+2024-10-10 01:55:41_1 = [{'product_id': 1, 'item_id': '1', 'product_name': 'produto geral', 'quantity': 2.0, 'price': 23.0}, {'product_id': 1, 'item_id': '2', 'product_name': 'produto geral', 'quantity': 1.0, 'price': 21.0}]
+2024-10-10 02:21:25_1 = [{'product_id': 1, 'item_id': '1', 'product_name': 'produto geral', 'quantity': 1.0, 'price': 12.0}, {'product_id': 1, 'item_id': '2', 'product_name': 'produto geral', 'quantity': 3.0, 'price': 34.0}]
+2024-10-10 02:24:48_1 = [{'product_id': 1, 'item_id': '1', 'product_name': 'produto geral', 'quantity': 1.0, 'price': 2.0}]
+2024-10-10 02:31:43_1 = [{'product_id': 1, 'item_id': '1', 'product_name': 'produto geral', 'quantity': 1.0, 'price': 3.0}]
